@@ -1548,7 +1548,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8bffc2;
+  background: #bb301f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2113,6 +2113,7 @@ a.search-result {
 body {
   background: url("/images/shumiao.jpg");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   opacity: 0.5;
 }
 h1,
