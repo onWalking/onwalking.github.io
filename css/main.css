@@ -1548,7 +1548,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #41e01c;
+  background: #474f69;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2114,8 +2114,7 @@ body {
   background: url("/images/shumiao.jpg");
   background-repeat: repeat-x;
   background-attachment: fixed;
-  opacity: 0.5;
-  color: #fff;
+  opacity: 0.8;
 }
 h1,
 h2,
@@ -2283,6 +2282,9 @@ hr {
 }
 .posts-expand {
   padding-top: 0;
+  background-color: rgba(255,255,255,0.8);
+  padding: 10px;
+  margin: 10px;
 }
 .posts-expand .post-title,
 .posts-expand .post-meta {
